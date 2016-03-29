@@ -1,0 +1,52 @@
+#header {
+    background-color:#3e3c42;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#DFF2F2;
+    height:600px;
+    width:300px;
+    float:left;
+    padding:5px;  
+    font-family: "Courier New", Courier, monospace;      
+}
+#section {
+    width:750px;
+    float:left;
+    padding:15px;    
+    font-family: "Courier New", Courier, monospace;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;    
+}
+.success {
+    background-color: green;
+    color: white;
+}
+.failure {
+    background-color: red;
+    color: white;
+}
+.paybutton {
+    background-color: #3e3c42;    
+    border: none;
+    color: white;
+    padding: 8px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    margin: 3px 2px;
+    cursor: pointer;
+    
+}
+a {
+    color: #3e3c42;
+}
